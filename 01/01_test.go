@@ -1,6 +1,7 @@
 package main
 
 import (
+	file "github.com/Meez25/AOC"
 	"testing"
 	"testing/fstest"
 )
